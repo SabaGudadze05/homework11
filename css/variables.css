@@ -1,0 +1,7 @@
+:root{
+    --backColor: rgba(28, 85, 80, 1);
+    --mainFont: "Inter", sans-serif;
+    --headerNavFontSize:24px;
+    --headerNavFontWeight:700;
+    --shoppingCart:rgba(195, 185, 127, 1); 
+}
