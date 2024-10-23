@@ -110,7 +110,6 @@ aside {
 /* section1 */
 .section1 {
   grid-area: SECTION1;
-  background-color: blue;
 }
 .section_1_img {
   width: 100%;
@@ -120,7 +119,6 @@ aside {
 /* section2 */
 .section2 {
   grid-area: SECTION2;
-  background-color: blue;
 }
 .section2_img {
   width: 100%;
@@ -130,7 +128,6 @@ aside {
 /* section3 */
 .section3 {
   grid-area: SECTION3;
-  background-color: blue;
 }
 .section3_img {
   width: 100%;
